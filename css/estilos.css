@@ -1,0 +1,62 @@
+*{
+padding: 0;
+margin: 0;
+ font-family: trebuchet MS;
+}
+
+.zero
+{
+    border: 1px solid black;
+    text-align: center;
+}
+.uno{
+    text-align: left;
+    background: #EA2027;
+    color :#f5f6fa;
+    
+}
+.dos
+{
+    background: #2f3640;
+    color:#f5f6fa;
+    text-align: left;
+    padding: 30px;
+}
+
+.dos li
+{ 
+    list-style: none;
+    display: inline-block;
+    
+}
+.dos a:hover
+{
+    background: #fbc531;
+    padding: 30px;
+    margin: 0;
+    color: black;
+
+}
+a
+{
+    color: #f5f6fa;
+    padding: 6px;
+}
+
+.cuatro
+{
+    float: left;
+    margin-top: 20px;
+}
+.cinco
+{
+    float: right;
+
+    padding: 20px;
+}
+.pie
+{
+background: #EA2027;
+padding: 30px;
+clear: both;
+}
